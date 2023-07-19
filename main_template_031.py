@@ -2,7 +2,7 @@
 Author: AUTHOR's NAME
 Description:
     Here a script to show different control flow sentences
-    Python 4. More Control Flow Tools - 4.1. if Statements. [https://docs.python.org/3/tutorial/controlflow.html#if-statements]
+    The Python Tutorial - More Control Flow Tools - 4.1. if Statements. [https://docs.python.org/3/tutorial/controlflow.html#if-statements]
 
 Usage:
     python main_template_01.py

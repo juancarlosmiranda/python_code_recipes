@@ -15,26 +15,32 @@ def main_control_flow_sentences():
     print("while and for")
 
     # ---------------------
-    # simple example for
-    for i in range(10):
+    # simple example while
+    i = 0
+    END_I = 10
+    while i < END_I:
         print(f"i={i}")
+        i = i + 1
     # ---------------------
 
     # ---------------------
-    an_animals_list = ['cat', 'dog', 'elephant', 'seal', 'monkey']
-    for an_animal in an_animals_list:
-        print(f"an_animal={an_animal}")
+    # simple example while
+    i = 0
+    j = 0
+    END_I = 4
+    END_J = 4
+    while i < END_I:
+        # ------------
+        j = 0  # what happen if I comment this line?
+        while j < END_J:
+            print(f"i={i}, j={j}")
+            # -------------------------
+            # DO something HERE!
+            # -------------------------
+            j = j + 1  # don't forget the counter!!
+        # ------------
+        i = i + 1
     # ---------------------
-
-    # ---------------------
-    an_animals_list = ['cat', 'dog', 'elephant', 'seal', 'monkey']
-    for an_animal in an_animals_list:
-        print(f"an_animal={an_animal}")
-        if an_animal == 'dog':
-            # you can add the function that you want here
-            print("Ohhh it is a DOG!")
-    # ---------------------
-
     pass
 
 
