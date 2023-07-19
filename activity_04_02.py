@@ -1,11 +1,11 @@
 """
 Author: AUTHOR's NAME
 Description:
-    Here a script to show different control flow sentences
+    Here a script to show different control flow sentences using while loops
     The Python Tutorial - More Control Flow Tools - 8.3. The for statement [https://docs.python.org/3/reference/compound_stmts.html#the-for-statement]
 
 Usage:
-    python main_template_01.py
+    python activity_04_02.py
 """
 
 

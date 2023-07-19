@@ -1,9 +1,10 @@
 """
 Author: AUTHOR's NAME
 Description:
-    Here a text with an small description about the current script. It is useful for other users.
+    It is a template for a first Python script, you can copy and paste.
+
 Usage:
-    python main_template_01.py
+    python activity_01_01.py
 """
 
 """
@@ -20,7 +21,7 @@ Usage:
 
 
 def main_function_01():
-    print("I am the main function Hii!!!")
+    print("I am the main function Hi!!!")
     pass
     pass
     pass

@@ -5,7 +5,7 @@ Description:
     The Python Tutorial - More Control Flow Tools - 4.1. if Statements. [https://docs.python.org/3/tutorial/controlflow.html#if-statements]
 
 Usage:
-    python main_template_01.py
+    python activity_03_01.py
 """
 
 
@@ -37,11 +37,6 @@ def main_control_flow_sentences():
         print("user_input == 0 and a_number is a POSITIVE NUMBER")
     else:
         print("something is not fullfiling the condition!")
-
-    # comparative mayor menor
-    # mezclando lógica
-    # elif option
-    # case otion
 
     pass
 

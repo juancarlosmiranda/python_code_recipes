@@ -1,11 +1,11 @@
 """
 Author: AUTHOR's NAME
 Description:
-    Here a script to show different control flow sentences
+    Here a script to show different control flow sentences for loops
     The Python Tutorial - More Control Flow Tools - 8.3. The for statement [https://docs.python.org/3/reference/compound_stmts.html#the-for-statement]
 
 Usage:
-    python main_template_01.py
+    python activity_01_01.py
 """
 
 
@@ -30,6 +30,7 @@ def main_control_flow_sentences():
     an_animals_list = ['cat', 'dog', 'elephant', 'seal', 'monkey']
     for an_animal in an_animals_list:
         print(f"an_animal={an_animal}")
+        # doing something with the animal
         if an_animal == 'dog':
             # you can add the function that you want here
             print("Ohhh it is a DOG!")

@@ -1,21 +1,9 @@
 """
 Author: AUTHOR's NAME
 Description:
-    Here a text with an small description about the current script. It is useful for other users.
+    This script implements functions using text files.
 Usage:
-    python main_template_01.py
-"""
-
-"""
-Project: MY_PROJECT_HERE
-Author: AUTHOR'S NAME HERE
-Date: July 2023
-
-Description:
-
-Usage:
-    A description of the software developed
-
+    python activity_05_01.py
 """
 
 
@@ -60,10 +48,7 @@ def main_function_01():
             print(f"a_line={a_line}")  # Loop reading line by line
     file_handler_reading.close()
     # ------------------------------
-
     pass
-
-
 
 
 if __name__ == "__main__":

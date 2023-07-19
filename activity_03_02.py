@@ -5,7 +5,7 @@ Description:
     The Python Tutorial - More Control Flow Tools - 4.6. match Statements. [https://docs.python.org/3/tutorial/controlflow.html#match-statements]
 
 Usage:
-    python main_template_01.py
+    python activity_01_01.py
 """
 
 # requirement Python > 3.10

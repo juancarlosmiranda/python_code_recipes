@@ -7,7 +7,7 @@ Description:
 
 
 Usage:
-    python main_template_01.py
+    python activity_06_01.py
 """
 import os
 import pandas as pd

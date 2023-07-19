@@ -1,9 +1,9 @@
 """
 Author: AUTHOR's NAME
 Description:
-    Here a script to show different type of data used in Python
+    It is a script that shows how to manage: numbers, strings, lists, dictionaries.
 Usage:
-    python main_template_01.py
+    python activity_02_01.py
 """
 
 def managing_numbers():
@@ -17,10 +17,12 @@ def managing_numbers():
     a_float_01 = 1.0
     tax = 12.5 / 100
     price = 100.5
-    calculation_01 = price * tax
+    calculation_01 = a_int_01 * a_float_01
+    calculation_02 = price * tax
     calculation_int = int(calculation_01)
 
     print(f"calculation_01={calculation_01}")
+    print(f"calculation_01={calculation_02}")
     print(f"calculation_int={calculation_int}")
 
 
@@ -142,10 +144,10 @@ def managing_dictionaries():
     pass
 
 def main_function_01():
-    #managing_numbers()
+    managing_numbers()
     #managing_strings()
     #managing_lists()
-    managing_dictionaries()
+    #managing_dictionaries()
     pass
 
 

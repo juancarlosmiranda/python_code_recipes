@@ -1,10 +1,9 @@
 """
 Author: AUTHOR's NAME HERE
 Description:
-    Here a text with an small description about the current script. It is useful for other users.
-    This scripts shows different types fo functions, with parameters inputs and outputs.
+    A script to explain the passing of parameters and the return of results.
 Usage:
-    python main_template_022.py
+    python main_template_02_02.py
 """
 
 
@@ -15,7 +14,7 @@ def my_function_stuff_01():
 
 
 def my_function_stuff_02(input_par_01, input_par_02):
-    print("This function do a lot of amazing calculations!!!")
+    print("This function print parameters!!!")
     print("Doesn't return any result!!!")
     print(f"input_par_01={input_par_01}")
     print(f"input_par_02={input_par_02}")
@@ -43,6 +42,7 @@ def my_function_stuff_03(input_par_01, input_par_02):
 
 def main_function_01():
     print("I AM INSIDE THE MAIN FUNCTION")
+    print("It s a demo function")
     pass
     pass  # null instruction do nothing
 
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     A multi-line comment 
     """
     # example of a single-line comment
-    print("STARTING __main__!")
+    print("Starting __main__!")
     print("Now calling to the main function --> main_function_01()")
     main_function_01()  # without parameters
     print("After the main function --> main_function_01()")
