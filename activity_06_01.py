@@ -25,7 +25,7 @@ def main_function_01():
     print("Pandas dataframe!!!")
 
     root_folder = os.path.abspath('.')  # folder in file system
-    day_measures_filename = 'comparative_by_day.csv'
+    day_measures_filename = 'fruit_list.csv'
     path_to_save_df = os.path.join(root_folder, 'output_dataset')  # Folder to save .CSV
     path_day_measures = os.path.join(path_to_save_df, day_measures_filename)  # path with the name of the file
 
