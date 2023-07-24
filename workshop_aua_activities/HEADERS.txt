@@ -1,0 +1,19 @@
+"""
+Author: AUTHOR's NAME
+Description:
+    Here a text with a small description about the current script. It is useful for other users.
+Usage:
+    python main_template_01.py
+"""
+
+"""
+Project: MY_PROJECT_HERE
+Author: AUTHOR'S NAME HERE
+Date: July 2023
+
+Description:
+
+Usage:
+    Here a text with a small description about the current script. It is useful for other users.
+
+"""
