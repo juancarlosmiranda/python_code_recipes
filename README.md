@@ -1,6 +1,18 @@
 # Python Code Recipes
 Python code recipes
 
+## Contents Practical Workshop - Introduction to Python Fundamentals
+
+| Package                   | Description            |
+|---------------------------|-------------------------|
+| Study materials | ([Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) |
+| Learning activities | ([Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) |
+| Exercises | ([Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) |
+| Table 1. |  |
+
+
+
+
 ## Creating environment
 ```
 python3 -m venv ./python_code_recipes_venv
@@ -26,5 +38,6 @@ cd ./python_code_recipes_venv/Scripts
 activate
 ```
 
-
+Videos - 
+[videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing)
 
