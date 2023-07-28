@@ -5,9 +5,9 @@ Python code recipes
 
 | Package                   | Description            |
 |---------------------------|-------------------------|
-| ([Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) | x |
-| ([Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) | x |
-| ([Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides)) | x |
+| [Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
+| [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
+| [Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
 | Table 1. |  |
 
 
