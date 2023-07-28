@@ -5,12 +5,10 @@ Python code recipes
 
 | Package                   | Description            |
 |---------------------------|-------------------------|
-| [Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
-| [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
-| [Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | x |
+| [Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | Slides for the workshop. |
+| [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_activities) | Source code for download. |
+| [Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_exercises) | Proposed exercises and solutions. |
 | Table 1. |  |
-
-
 
 
 ## Creating environment
@@ -38,6 +36,6 @@ cd ./python_code_recipes_venv/Scripts
 activate
 ```
 
-Videos - 
+## Tools - help in video format
 [videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing)
 
