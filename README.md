@@ -13,7 +13,7 @@ Python code recipes
 
 
 ## Useful information
-
+### Interesting links
 | Package                   | Description            |
 |---------------------------|-------------------------|
 | [Official site for Python language](https://www.python.org/) | . |
@@ -27,7 +27,8 @@ Python code recipes
 | Table 2. | Contents |
 
 
-
+### MOOC courses
+TO COMPLETE.
 
 
 
