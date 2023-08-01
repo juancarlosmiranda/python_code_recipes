@@ -1,5 +1,5 @@
 # Python Code Recipes
-Python code recipes
+This is a site dedicated to my notes on the Python language. Here I try to collect part of my experience of the day with the use of this language.
 
 ## Contents Practical Workshop - Introduction to Python Fundamentals
 
