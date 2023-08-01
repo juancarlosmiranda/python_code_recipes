@@ -16,12 +16,12 @@ Python code recipes
 ### Interesting links
 | Package                   | Description            |
 |---------------------------|-------------------------|
-| [Official site for Python language](https://www.python.org/) | . |
-| [The Python tutorial](https://docs.python.org/3/tutorial/index.html) | . |
-| [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) | . |
-| [Beginner’s Guide to Python](https://wiki.python.org/moin/BeginnersGuide) | . |
+| [Official site for Python language](https://www.python.org/) | The main site for information on the Python language. |
+| [The Python tutorial](https://docs.python.org/3/tutorial/index.html) | A good tutorial to start Python. |
+| [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) | Style guide, useful for writing clean code in Python. |
+| [Beginner’s Guide to Python](https://wiki.python.org/moin/BeginnersGuide) | Another good resource for beginners. |
 | [Rosetta Code](https://rosettacode.org/wiki/Category:Programming_Tasks) | Is a site with general information about programing languages, it is included Python. |
-| [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/index.html) | . |
+| [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/index.html) | Site focused in the use of Python for data science tasks. |
 | [W3 Schools](https://www.w3schools.com/python/) | Good site for reference |
 | [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) | Good for language reference. |
 | Table 2. | Contents |
