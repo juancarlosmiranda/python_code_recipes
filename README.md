@@ -8,7 +8,35 @@ Python code recipes
 | [Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | Slides for the workshop. |
 | [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_activities) | Source code for download. |
 | [Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_exercises) | Proposed exercises and solutions. |
-| Table 1. |  |
+| [Videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing) | Tools - help in video format |
+| Table 1. | Contents |
+
+
+## Useful information
+
+| Package                   | Description            |
+|---------------------------|-------------------------|
+| [Official site for Python language](https://www.python.org/) | . |
+| [The Python tutorial](https://docs.python.org/3/tutorial/index.html) | . |
+| [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) | . |
+| [Beginner’s Guide to Python](https://wiki.python.org/moin/BeginnersGuide) | . |
+| [Rosetta Code](https://rosettacode.org/wiki/Category:Programming_Tasks) | Is a site with general information about programing languages, it is included Python. |
+| [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/index.html) | . |
+| [W3 Schools](https://www.w3schools.com/python/) | Good site for reference |
+| [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) | Good for language reference. |
+| Table 2. | Contents |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Creating environment
@@ -35,7 +63,4 @@ Activation of environment in Windows 10.
 cd ./python_code_recipes_venv/Scripts
 activate
 ```
-
-## Tools - help in video format
-[videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing)
 
