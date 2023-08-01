@@ -7,7 +7,7 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 |---------------------------|-------------------------|
 | [Study materials](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_slides) | Slides for the workshop. |
 | [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_activities) | Source code for download. |
-| [Exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_exercises) | Proposed exercises and solutions. |
+| [Practical exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_exercises) | Proposed exercises and solutions. |
 | [Videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing) | Tools - help in video format |
 | Table 1. | Contents |
 
