@@ -13,7 +13,9 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 
 
 ## Useful information
+
 ### Interesting links
+
 | Package                   | Description            |
 |---------------------------|-------------------------|
 | [Official site for Python language](https://www.python.org/) | The main site for information on the Python language. |
@@ -27,16 +29,11 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 | Table 2. | Contents |
 
 
-### MOOC courses
+### MOOC courses (TO COMPLETE)
 TO COMPLETE.
 
-
-
-
-
-
-
-
+### Books (TO COMPLETE)
+TO COMPLETE.
 
 
 
