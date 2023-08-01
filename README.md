@@ -9,7 +9,7 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 | [Learning activities](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_activities) | Source code for download. |
 | [Practical exercises](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/workshop_aua_exercises) | Proposed exercises and solutions. |
 | [Videos](https://drive.google.com/drive/folders/1yutCgClZ_jfDEANlMQ3ixUFFoq79nVl-?usp=sharing) | Tools - help in video format |
-| Table 1. | Contents |
+| Table 1. | Contents Practical Workshop - Introduction to Python Fundamentals |
 
 
 ## Useful information
@@ -26,7 +26,7 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 | [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/index.html) | Site focused in the use of Python for data science tasks. |
 | [W3 Schools](https://www.w3schools.com/python/) | Good site for reference |
 | [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) | Good for language reference. |
-| Table 2. | Contents |
+| Table 2. | Interesting links |
 
 
 ### MOOC courses (TO COMPLETE)
