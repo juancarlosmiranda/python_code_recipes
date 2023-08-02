@@ -28,6 +28,15 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 | [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) | Good for language reference. |
 | Table 2. | Interesting links |
 
+### Advanced topics (TO COMPLETE)
+This folder contains examples about advanced topics using Python.
+* Managing date and time formats.
+* Threads and jobs.
+* Logging.
+* Configuration files.
+* Processing parameters from command line.
+* Accessing data from webcam
+* 
 
 ### MOOC courses (TO COMPLETE)
 TO COMPLETE.
