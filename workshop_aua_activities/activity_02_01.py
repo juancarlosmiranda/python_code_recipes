@@ -14,6 +14,7 @@ def managing_numbers():
     # From the Python console you can check the type of a variable type(a) # <class 'float'>
     a_int_01 = 1
     a_int_02 = 2
+    print(a_int_02)
     a_float_01 = 1.0
     tax = 12.5 / 100
     price = 100.5
@@ -21,8 +22,9 @@ def managing_numbers():
     calculation_02 = price * tax
     calculation_int = int(calculation_01)
 
+    print("Managing numbers")
     print(f"calculation_01={calculation_01}")
-    print(f"calculation_01={calculation_02}")
+    print(f"calculation_02={calculation_02}")
     print(f"calculation_int={calculation_int}")
 
 
@@ -145,9 +147,9 @@ def managing_dictionaries():
 
 def main_function_01():
     managing_numbers()
-    #managing_strings()
-    #managing_lists()
-    #managing_dictionaries()
+    managing_strings()
+    managing_lists()
+    managing_dictionaries()
     pass
 
 

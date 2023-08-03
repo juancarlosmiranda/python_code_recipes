@@ -1,3 +1,13 @@
+"""
+Author: Juan Carlos Miranda
+Description:
+    Threading implementing as class
+
+Usage:
+    j1 = JobThreadLog()
+    j1.start()
+
+"""
 import time
 import threading
 import signal
@@ -9,16 +19,15 @@ class JobThread(threading.Thread):
         # The shutdown_flag is a threading.Event object that
         # indicates whether the thread should be terminated.
         self.shutdown_flag = threading.Event()
-
         # ... Other thread setup code here ...
-# \n
-    def run(self):
-        print('\n Job --> Thread #%s started \r' % self.ident)
 
+    def run(self):
+        print('\n JobThread --> Thread #%s started \r' % self.ident)
+        # meanwhile the flag is set
         while not self.shutdown_flag.is_set():
             # ... Job code here ...
-            print(f'Job -->#{self.ident} \r')
+            print(f'JobThread -->#{self.ident} self.shutdown_flag.is_set()={self.shutdown_flag.is_set()}\r')
             time.sleep(0.5)
 
         # ... Clean shutdown code here ...
-        print('Job --> Thread #%s stopped \r' % self.ident)
+        print('JobThread --> Thread #%s stopped \r' % self.ident)

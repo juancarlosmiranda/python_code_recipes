@@ -5,14 +5,13 @@ Description:
     This runs a text user interface in order to show the execution. It is based on curses
     pip courses.
 
+Requirements:
+    pip install windows-curses
+
 Usage:
     python ui_main_thread_01.py
 """
 
-"""
-Run a UI with options for launch threads
-python ui_main_thread_01.py
-"""
 
 import curses
 import logging

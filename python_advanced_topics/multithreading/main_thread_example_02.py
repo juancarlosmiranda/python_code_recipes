@@ -1,6 +1,12 @@
 """
-Run a UI with options for launch threads
-python ui_main_thread_01.py
+Author: Juan Carlos Miranda
+Description:
+    Implementation of threads as a class with register statements.
+    This script shows the sequence of how to start a process and how to stop it.
+
+Usage:
+    python main_thread_example_01.py
+
 """
 
 import logging
@@ -24,10 +30,10 @@ if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)s %(message)s', filename='threadlogger.log', level=logging.DEBUG)
     try:
         j1 = JobThreadLog()
-        j1.start()
-        time.sleep(5)
-        j1.shutdown_flag.set()
-        j1.join()
+        j1.start()  # start running
+        time.sleep(5)  # sleep for 5 seconds
+        j1.shutdown_flag.set()  # shutdown the process
+        j1.join()  # stopping
 
     except ServiceExit:
         print('ServiceExit Exception --> ')
