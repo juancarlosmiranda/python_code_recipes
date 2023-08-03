@@ -39,7 +39,7 @@ This folder contains examples about advanced topics using Python.
 | Reading and writing configuration files | . |
 | Processing parameters from command line | . |
 | Accessing data from web cam | . |
-| [TkInter GUI + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | . |
+| [TkInter GUI + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |
 
 
