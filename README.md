@@ -1,7 +1,8 @@
 # Python Code Recipes
 This is a site dedicated to my notes on the Python language. Here I try to collect part of my experience of the day with the use of this language.
 
-## Contents Practical Workshop - Introduction to Python Fundamentals
+## Contents Practical Workshop - Introduction to Python Fundamentals (07/2023)
+Study material, practical exercises shared during the workshop held at the [Agricultural University of Athens (AUA)](https://www.aua.gr) in July-August 2023. 
 
 | Package                   | Description            |
 |---------------------------|-------------------------|
