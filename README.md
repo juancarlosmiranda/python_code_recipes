@@ -30,13 +30,18 @@ This is a site dedicated to my notes on the Python language. Here I try to colle
 
 ### Advanced topics (TO COMPLETE)
 This folder contains examples about advanced topics using Python.
-* Managing date and time formats.
-* Threads and jobs.
-* Logging.
-* Configuration files.
-* Processing parameters from command line.
-* Accessing data from webcam
-* 
+
+| Package                   | Description            |
+|---------------------------|-------------------------|
+| Managing date and time formats. | . |
+| [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
+| Logging data | . |
+| Reading and writing configuration files | . |
+| Processing parameters from command line | . |
+| Accessing data from web cam | . |
+| [TkInter GUI + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | . |
+| Table 3. | Advanced topics |
+
 
 ### MOOC courses (TO COMPLETE)
 TO COMPLETE.
