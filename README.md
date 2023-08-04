@@ -27,12 +27,13 @@ Study material, practical exercises shared during the workshop held at the [Agri
 | [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/index.html) | Site focused in the use of Python for data science tasks. |
 | [W3 Schools](https://www.w3schools.com/python/) | Good site for reference |
 | [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) | Good for language reference. |
+| [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) | Good for language reference. |
 | Table 2. | Interesting links |
 
 ### Advanced topics (TO COMPLETE)
 This folder contains examples about advanced topics using Python.
 
-| Package                   | Description            |
+| Topic                   | Description            |
 |---------------------------|-------------------------|
 | Managing date and time formats. | . |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
@@ -48,7 +49,17 @@ This folder contains examples about advanced topics using Python.
 TO COMPLETE.
 
 ### Books (TO COMPLETE)
-TO COMPLETE.
+
+| Topic                   | Description            |
+|---------------------------|-------------------------|
+| [Python Crash Course - Resources for Python Crash Course (1st edition), from No Starch Press. ](https://ehmatthes.github.io/pcc/) | . |
+| . | . |
+| Table 4. | Books |
+
+
+
+
+
 
 
 
