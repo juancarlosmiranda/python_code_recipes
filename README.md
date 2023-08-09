@@ -17,9 +17,11 @@ Study material, practical exercises shared during the workshop held at the [Agri
 
 ### Interesting links
 
+
 | Package                   | Description            |
 |---------------------------|-------------------------|
 | [Official site for Python language](https://www.python.org/) | The main site for information on the Python language. |
+| [The Python Standard Library](https://docs.python.org/3/library/index.html) | While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. |
 | [The Python tutorial](https://docs.python.org/3/tutorial/index.html) | A good tutorial to start Python. |
 | [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) | Style guide, useful for writing clean code in Python. |
 | [Beginner’s Guide to Python](https://wiki.python.org/moin/BeginnersGuide) | Another good resource for beginners. |
@@ -88,3 +90,9 @@ cd ./python_code_recipes_venv/Scripts
 activate
 ```
 
+Tools in Linux
+```
+sudo apt-get install python3-dev
+sudo apt-get install python3
+sudo apt-get install python3-pip
+```
