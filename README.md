@@ -46,6 +46,10 @@ This folder contains examples about advanced topics using Python.
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |
 
+### Notes to organise
+Modules. https://docs.python.org/3/library/__main__.html?highlight=__init__
+Modules.https://docs.python.org/3/tutorial/modules.html#tut-modules
+
 
 ### MOOC courses (TO COMPLETE)
 TO COMPLETE.
