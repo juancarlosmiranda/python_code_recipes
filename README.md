@@ -47,12 +47,22 @@ This folder contains examples about advanced topics using Python.
 | Table 3. | Advanced topics |
 
 ### Notes to organise
-Modules. https://docs.python.org/3/library/__main__.html?highlight=__init__
-Modules.https://docs.python.org/3/tutorial/modules.html#tut-modules
+
+* Modules. https://docs.python.org/3/library/__main__.html?highlight=__init__
+* Modules.https://docs.python.org/3/tutorial/modules.html#tut-modules
+* Python programs in interviews. https://www.linkedin.com/feed/update/urn:li:activity:7095131874892603392
+* State-of-the-Art Shitcode Principles https://github.com/trekhleb/state-of-the-art-shitcode
+* An Overview of Packaging for Python. https://packaging.python.org/en/latest/overview/
 
 
 ### MOOC courses (TO COMPLETE)
-TO COMPLETE.
+| Topic                   | Description            |
+|---------------------------|-------------------------|
+| [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) | Get started with Python! Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions. |
+| . | . |
+| Table 4. | Courses and EMOOCS |
+
+
 
 ### Books (TO COMPLETE)
 
@@ -60,7 +70,7 @@ TO COMPLETE.
 |---------------------------|-------------------------|
 | [Python Crash Course - Resources for Python Crash Course (1st edition), from No Starch Press. ](https://ehmatthes.github.io/pcc/) | . |
 | . | . |
-| Table 4. | Books |
+| Table 5. | Books |
 
 
 
