@@ -37,7 +37,6 @@ This folder contains examples about advanced topics using Python.
 
 | Topic                   | Description            |
 |---------------------------|-------------------------|
-| Managing date and time formats. | . |
 | [Datetime and time](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_datetime_main.py) | python_datetime_main.py |
 | [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
