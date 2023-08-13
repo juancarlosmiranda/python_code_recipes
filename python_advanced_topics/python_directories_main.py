@@ -32,6 +32,7 @@ if __name__ == '__main__':
     father_path = os.pardir
     folder_to_check_path = os.path.join(absolute_path, 'multithreading')
     folder_to_check_not_path = os.path.join(absolute_path, 'NOT_EXISTS')
+    folder_to_search = os.path.join(absolute_path, 'multithreading')
     current_dirname = os.path.dirname(os.path.normpath(normalised_script_path))
 
     print(f"user_path               = {user_path}")
@@ -52,6 +53,8 @@ if __name__ == '__main__':
     print(f"current_dirname         = {current_dirname}")
     print(f"\n")
 
+    # ---------------------------------------------------
+    print("-- Checking directories --")
     # checking for the existence of directories
     if os.path.exists(folder_to_check_path):
         print("Directory exist!!!", folder_to_check_path)
@@ -62,8 +65,14 @@ if __name__ == '__main__':
     else:
         print("Directory doesn't exist!!!", folder_to_check_not_path)
     pass
-    # -----------------------------------------
-# current directory
-# absolute path
-# moving around a folder
-#
+
+    # ---------------------------------------------------
+    print("-- Iterating over directories --")
+    extension_file_to_search = ".md"  # filter by extension
+    for a_filename in os.listdir(folder_to_search):
+        print(f"LISTING - {a_filename}")
+        if a_filename.endswith(extension_file_to_search):
+            print(f"EXECUTING ACTION WITH with file {a_filename}")
+
+    # ---------------------------------------------------
+    # todo: is directory? or is a file?
