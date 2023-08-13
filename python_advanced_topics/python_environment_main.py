@@ -2,7 +2,7 @@
 Author: Juan Carlos Miranda
 Description:
     Script with examples system variables.
-    This checks if the script is running under Windows and show variables
+    This checks if the script is running under Windows or Linux and show variables
     https://www.geeksforgeeks.org/python-os-environ-object/
 
 Usage:
@@ -44,7 +44,6 @@ if __name__ == '__main__':
         print("Detected Linux family")
         print("DOING SOMETHING")
         print(f"USERNAME        = {environment_info['USERNAME']}")
-        print(f"HOSTNAME        = {environment_info['HOSTNAME']}")
         print(f"HOME            = {environment_info['HOME']}")
         print(f"SHELL           = {environment_info['SHELL']}")
     # --------
