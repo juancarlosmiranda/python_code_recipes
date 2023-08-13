@@ -39,6 +39,7 @@ This folder contains examples about advanced topics using Python.
 |---------------------------|-------------------------|
 | [Datetime and time](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_datetime_main.py) | python_datetime_main.py |
 | [Directories, filenames, paths](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_directories_main.py) | python_datetime_main.py |
+| [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py |
 | [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
 | Reading and writing configuration files | . |
@@ -91,8 +92,8 @@ pip install -r requirements.txt
 
 ### Creating on Windows systems
 ```
-"%LocalAppData%\Programs\Python\Python38\python.exe" -m venv venv
-\venv\Scripts\activate
+"%LocalAppData%\Programs\Python\Python38\python.exe" -m venv MY_APP_ENV
+\MY_APP_ENV\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 

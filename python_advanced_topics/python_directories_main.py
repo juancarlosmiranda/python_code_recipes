@@ -1,7 +1,7 @@
 """
 Author: Juan Carlos Miranda
 Description:
-    Script to
+    Script with examples about managing paths and directories
 
 Usage:
     python python_directories_main.py
@@ -13,16 +13,19 @@ from os.path import expanduser
 if __name__ == '__main__':
     print("Example managing directories")
 
+    # --------------------------------
     # environment information
     user_path = expanduser("~")
     current_folder = os.getcwd()  # 'C:\\Users\\Usuari\\development\\python_code_recipes\\python_advanced_topics'
 
+    # --------------------------------
     # script information, getting data from path
     current_script_path_str = __file__  # with slash /
     script_name = os.path.basename(current_script_path_str)
     normalised_script_path = os.path.normpath(current_script_path_str)  # conversion to operating system format \ Windows for example.
     local_script_path = os.path.dirname(os.path.abspath(__file__))  # from a complete plath get the dirname
 
+    # --------------------------------
     # managing folders
     absolute_path = os.path.abspath('.')
     absolute_father_path = os.path.abspath('..')  # asking moving from current directory
