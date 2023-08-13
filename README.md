@@ -53,7 +53,7 @@ This folder contains examples about advanced topics using Python.
 * Python programs in interviews. https://www.linkedin.com/feed/update/urn:li:activity:7095131874892603392
 * State-of-the-Art Shitcode Principles https://github.com/trekhleb/state-of-the-art-shitcode
 * An Overview of Packaging for Python. https://packaging.python.org/en/latest/overview/
-
+* typing - Support for type hints https://docs.python.org/3/library/typing.html
 
 ### MOOC courses (TO COMPLETE)
 | Topic                   | Description            |
@@ -80,11 +80,21 @@ This folder contains examples about advanced topics using Python.
 
 
 ## Creating environment
+### Creating on Linux systems
 ```
 python3 -m venv ./python_code_recipes_venv
 source ./python_code_recipes_venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+```
+
+### Creating on Windows systems
+```
+"%LocalAppData%\Programs\Python\Python38\python.exe" -m venv venv
+\venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+
 ```
 
 To check Python version installed.
