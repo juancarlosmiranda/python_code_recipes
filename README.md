@@ -42,6 +42,7 @@ This folder contains examples about advanced topics using Python.
 | [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py |
 | [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
+| Multi language examples | . |
 | Reading and writing configuration files | . |
 | Processing parameters from command line | . |
 | Accessing data from web cam | . |
@@ -70,9 +71,19 @@ This folder contains examples about advanced topics using Python.
 
 | Topic                   | Description            |
 |---------------------------|-------------------------|
+| [A Beginners Guide to Python 3 Programming](https://link.springer.com/book/10.1007/978-3-030-20290-3) | Includes an introduction to Python as well as advanced topics such as generators and coroutines. Offers extensive coverage of Object Orientation and the features in Python 3 supporting classes, inheritance and protocols. Presents Functional Programming as well as how concepts such as closures, currying and higher order functions work in Python. Includes all code examples (and exercise solutions) on line in a GitHub repository. |
+| [Advanced Guide to Python 3 Programming](https://link.springer.com/book/10.1007/978-3-030-25943-3) | Takes each subject from an introduction to an advanced level. Provides coverage of a wide range of graphic related topics including computer art, Graphical User Interfaces and games. Presents an extensive coverage of concurrency and parallelism in Python including AsyncIO and Reactive programming. All code examples and exercise solutions are provided in a GitHub repository. |
 | [Python Crash Course - Resources for Python Crash Course (1st edition), from No Starch Press. ](https://ehmatthes.github.io/pcc/) | . |
 | . | . |
 | Table 5. | Books |
+
+
+
+
+
+
+
+
 
 
 
