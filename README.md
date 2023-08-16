@@ -17,7 +17,6 @@ Study material, practical exercises shared during the workshop held at the [Agri
 
 ### Interesting links
 
-
 | Package                   | Description            |
 |---------------------------|-------------------------|
 | [Official site for Python language](https://www.python.org/) | The main site for information on the Python language. |
@@ -49,19 +48,12 @@ This folder contains examples about advanced topics using Python.
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |
 
-### Notes to organise
-
-* Modules. https://docs.python.org/3/library/__main__.html?highlight=__init__
-* Modules.https://docs.python.org/3/tutorial/modules.html#tut-modules
-* Python programs in interviews. https://www.linkedin.com/feed/update/urn:li:activity:7095131874892603392
-* State-of-the-Art Shitcode Principles https://github.com/trekhleb/state-of-the-art-shitcode
-* An Overview of Packaging for Python. https://packaging.python.org/en/latest/overview/
-* typing - Support for type hints https://docs.python.org/3/library/typing.html
-
-### MOOC courses (TO COMPLETE)
+### MOOC courses (Massive Open Online Course)
 | Topic                   | Description            |
 |---------------------------|-------------------------|
 | [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) | Get started with Python! Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions. |
+| [PCAP: Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Learn programming from scratch and master Python. By Cisco Networking Academy in collaboration with OpenEDG Python Institute. |
+| . | . |
 | . | . |
 | Table 4. | Courses and EMOOCS |
 
@@ -78,7 +70,14 @@ This folder contains examples about advanced topics using Python.
 | Table 5. | Books |
 
 
+### Notes to organise
 
+* Modules. https://docs.python.org/3/library/__main__.html?highlight=__init__
+* Modules.https://docs.python.org/3/tutorial/modules.html#tut-modules
+* Python programs in interviews. https://www.linkedin.com/feed/update/urn:li:activity:7095131874892603392
+* State-of-the-Art Shitcode Principles https://github.com/trekhleb/state-of-the-art-shitcode
+* An Overview of Packaging for Python. https://packaging.python.org/en/latest/overview/
+* typing - Support for type hints https://docs.python.org/3/library/typing.html
 
 
 
