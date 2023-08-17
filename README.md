@@ -31,14 +31,14 @@ Study material, practical exercises shared during the workshop held at the [Agri
 | [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) | Good for language reference. |
 | Table 2. | Interesting links |
 
-### Advanced topics (TO COMPLETE)
+### Advanced topics (WORKING)
 This folder contains examples about advanced topics using Python.
 
 | Topic                   | Description            |
 |---------------------------|-------------------------|
 | [Datetime and time](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_datetime_main.py) | python_datetime_main.py |
 | [Directories, filenames, paths](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_directories_main.py) | python_datetime_main.py |
-| [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py |
+| [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py. Implements functions to detect the operating system family (Windows or Linux) in order to display the values of the operating system environment variables. |
 | [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
 | [Multi language examples - automatic translation using i18n](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/language_locale_i18n) | python_language_i18n.py. Example using the GNU gettext module, included with the Python official standard library, to get internationalization (i18n) and localization (l10n). Internationalization (i18n) refers to the operation by which a program becomes aware of multiple languages. |
@@ -62,7 +62,7 @@ This folder contains examples about advanced topics using Python.
 
 
 
-### Books (TO COMPLETE)
+### Books
 
 | Topic                   | Description            |
 |---------------------------|-------------------------|
