@@ -36,16 +36,16 @@ This folder contains examples about advanced topics using Python.
 
 | Topic                   | Description            |
 |---------------------------|-------------------------|
-| [Datetime and time](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_datetime_main.py) | python_datetime_main.py |
-| [Directories, filenames, paths](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_directories_main.py) | python_datetime_main.py |
+| [Datetime and time](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_datetime_main.py) | python_datetime_main.py. Script with examples using time and datetime to manage time data. Date, UTC Date, time. |
+| [Directories, filenames, paths](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_directories_main.py) | python_directories_main.py. Script with examples about managing paths and directories. |
 | [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py. Implements functions to detect the operating system family (Windows or Linux) in order to display the values of the operating system environment variables. |
 | [Executing Shell commands](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/operating_system_cmd) | python_execute_shell_cmd.py. Script to run a shell command detecting Windows or Linux operating systems. |
-| [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
-| [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
+| [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py. Script to show logging in files, using info, warning and debug messages. |
+| [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | Examples on the use of threads and parallelism. |
 | [Multi language examples - automatic translation using i18n](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/language_locale_i18n) | python_language_i18n.py. Example using the GNU gettext module, included with the Python official standard library, to get internationalization (i18n) and localization (l10n). Internationalization (i18n) refers to the operation by which a program becomes aware of multiple languages. |
-| Reading and writing configuration files | . |
 | Processing parameters from command line | . |
-| Accessing data from web cam | . |
+| Reading and writing configuration files | . |
+| Webcam - Accessing data from web cam | . |
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |
 
