@@ -1,8 +1,8 @@
 """
 Author: Juan Carlos Miranda
 Description:
-    Script with examples about managing paths and directories
-
+    Script with examples about managing paths and directories.
+    https://appdividend.com/2021/03/24/how-to-get-filename-from-path-in-python/
 Usage:
     python python_directories_main.py
 """
@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # --------------------------------
     # script information, getting data from path
     current_script_path_str = __file__  # with slash /
-    script_name = os.path.basename(current_script_path_str)
+    script_name = os.path.basename(current_script_path_str)  # get the script's name
     normalised_script_path = os.path.normpath(current_script_path_str)  # conversion to operating system format \ Windows for example.
     local_script_path = os.path.dirname(os.path.abspath(__file__))  # from a complete plath get the dirname
 
@@ -53,6 +53,14 @@ if __name__ == '__main__':
     print(f"current_dirname         = {current_dirname}")
     print(f"\n")
 
+
+    # ---------------------------------------------------
+    path_filename_selected = "/home/user/sound_db/test_data_split/VID-20200319-WA0064.mp4.wav_split_07.wav"
+    file_name_selected = os.path.basename(path_filename_selected)
+    print("-- Getting the filename from path with os.path.basename() --")
+    print(f"path_filename_selected = {path_filename_selected}")
+    print(f"file_name_selected     = {file_name_selected}")
+
     # ---------------------------------------------------
     print("-- Checking directories --")
     # checking for the existence of directories
@@ -66,8 +74,14 @@ if __name__ == '__main__':
         print("Directory doesn't exist!!!", folder_to_check_not_path)
     pass
 
+    print("-- Checking if the path is a file --")
+    if os.path.isfile(path_filename_selected):
+        print(f"{path_filename_selected} IS A FILE!!")
+    else:
+        print(f"{path_filename_selected} IT SEEMS IS NOT  A FILE!!")
+
     # ---------------------------------------------------
-    print("-- Iterating over directories --")
+    print("-- Iterating over files in directories --")
     extension_file_to_search = ".md"  # filter by extension
     for a_filename in os.listdir(folder_to_search):
         print(f"LISTING - {a_filename}")
@@ -75,4 +89,4 @@ if __name__ == '__main__':
             print(f"EXECUTING ACTION WITH with file {a_filename}")
 
     # ---------------------------------------------------
-    # todo: is directory? or is a file?
+
