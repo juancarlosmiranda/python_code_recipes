@@ -41,12 +41,15 @@ This folder contains examples about advanced topics using Python.
 | [Environment and system variables](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_environment_main.py) | python_environment_main.py |
 | [Logging data](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/python_logging_main.py) | python_logging_main.py |
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | . |
-| Multi language examples | . |
+| [Multi language examples - automatic translation using i18n](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/language_locale_i18n) | python_language_i18n.py. Example using the GNU gettext module, included with the Python official standard library, to get internationalization (i18n) and localization (l10n). Internationalization (i18n) refers to the operation by which a program becomes aware of multiple languages. |
 | Reading and writing configuration files | . |
 | Processing parameters from command line | . |
 | Accessing data from web cam | . |
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |
+
+
+
 
 ### MOOC courses (Massive Open Online Course)
 | Topic                   | Description            |
