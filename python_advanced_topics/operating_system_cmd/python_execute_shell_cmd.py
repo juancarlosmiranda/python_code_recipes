@@ -1,7 +1,7 @@
 """
 Author: Juan Carlos Miranda
 Description:
-    Script to execute shell command selecting Windows or Linux operating systems.
+    Script to run a shell command detecting Windows or Linux operating systems.
     Based on https://janakiev.com/blog/python-shell-commands/
 
 Usage:
