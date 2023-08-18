@@ -1,0 +1,36 @@
+
+
+
+
+    # def file_to_test(self):
+    #     print("file_to_test")
+    #     filename = filedialog.askopenfilename(initialdir="/", title="Select a File", filetypes=(("Text files", self.file_extension_to_search), ("all files", "*.*")))
+    #     # Change label contents
+    #     filename = "NOTHING"
+    #     self.file_to_test_label.configure(text="File Opened: " + filename)
+
+
+
+
+    def normalize_one_audio_file(self, path_name_audio_to_normalize, name_audio_to_normalize, extension_file,
+                                 output_normalized_folder):
+        # todo: clean split in folder
+        # todo: change this method with a ffmpeg library in Python
+        # ---------------------------------------
+        remove_files(output_normalized_folder, extension_file)
+        # ---------------------------------------------------
+        print(path_name_audio_to_normalize)
+        print(name_audio_to_normalize)
+        print(extension_file)
+        print(output_normalized_folder)
+        cmd_ffmpeg = '/usr/bin/ffmpeg'
+        cmd_param = '-y -i'
+        middle = '-ar 44100 -b:1 192k'
+        final_extension = '.wav'
+        CMD_BY_FILE = cmd_ffmpeg + ' ' + cmd_param + ' ' + path_name_audio_to_normalize + ' ' + middle + ' ' + output_normalized_folder + name_audio_to_normalize + final_extension
+        process = subprocess.Popen(CMD_BY_FILE.split(), stdout=subprocess.PIPE)
+        output, error = process.communicate()
+
+        return output_normalized_folder + name_audio_to_normalize + final_extension
+
+

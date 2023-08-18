@@ -44,7 +44,7 @@ This folder contains examples about advanced topics using Python.
 | [Threads and jobs](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/multithreading) | Examples on the use of threads and parallelism. |
 | [Multi language examples - automatic translation using internationalization (i18n)](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/language_locale_i18n) | python_language_i18n.py. Example using the GNU gettext module, included with the Python official standard library, to get internationalization (i18n) and localization (l10n). Internationalization (i18n) refers to the operation by which a program becomes aware of multiple languages. |
 | Processing parameters from command line | . |
-| Reading and writing configuration files | . |
+| [Reading and writing configuration files using "configparser"](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/config_files)| python_load_config_from_files.py.  |
 | Webcam - Accessing data from web cam | . |
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
 | Table 3. | Advanced topics |

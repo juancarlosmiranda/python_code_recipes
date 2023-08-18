@@ -1,0 +1,3 @@
+;image_name;meanDepth;stdDepth;minDepth;maxDepth;modeDepth;sizePx;sizeMeasured;label_class
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;label_1
+1;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;label_2
