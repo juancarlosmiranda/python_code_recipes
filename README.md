@@ -47,6 +47,7 @@ This folder contains examples about advanced topics using Python.
 | [Reading and writing configuration files using "configparser"](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/config_files)| python_load_config_from_files.py.  |
 | Webcam - Accessing data from web cam | . |
 | [TkInter GUI app based + Packaging example (pip, .EXE)](https://github.com/juancarlosmiranda/packaging_tutorial) | An example using the TkInter GUI, applying packaging techniques to get PIP packages (for Pypi.org) and .EXE executables. |
+| [Testing in Python](https://github.com/juancarlosmiranda/python_code_recipes/tree/main/python_advanced_topics/testing_in_python) | Examples of test cases and test suit |
 | Table 3. | Advanced topics |
 
 

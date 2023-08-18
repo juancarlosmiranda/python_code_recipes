@@ -2,14 +2,19 @@
 Based from https://docs.python.org/3/library/unittest.html
 
 Use:
- python -m unittest recording_data/test/test_example.py
+ python -m unittest test_class_02.py
 
 """
 import unittest
 
-class TestStringMethods(unittest.TestCase):
+class TestClass02(unittest.TestCase):
+
+    def setUp(self):
+        print("HERE setting parameters for TestClass01(unittest.TestCase) --")
+        self.my_variable = "HELLO_CLASS_02!"
 
     def test_upper(self):
+        print(f"Using my internal variale {self.my_variable}")
         self.assertEqual('foo'.upper(), 'FOO')
 
     def test_isupper(self):
