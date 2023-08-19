@@ -71,8 +71,10 @@ This folder contains examples about advanced topics using Python.
 | [A Beginners Guide to Python 3 Programming](https://link.springer.com/book/10.1007/978-3-030-20290-3) | Includes an introduction to Python as well as advanced topics such as generators and coroutines. Offers extensive coverage of Object Orientation and the features in Python 3 supporting classes, inheritance and protocols. Presents Functional Programming as well as how concepts such as closures, currying and higher order functions work in Python. Includes all code examples (and exercise solutions) on line in a GitHub repository. |
 | [Advanced Guide to Python 3 Programming](https://link.springer.com/book/10.1007/978-3-030-25943-3) | Takes each subject from an introduction to an advanced level. Provides coverage of a wide range of graphic related topics including computer art, Graphical User Interfaces and games. Presents an extensive coverage of concurrency and parallelism in Python including AsyncIO and Reactive programming. All code examples and exercise solutions are provided in a GitHub repository. |
 | [Python Crash Course - Resources for Python Crash Course (1st edition), from No Starch Press. ](https://ehmatthes.github.io/pcc/) | . |
+| [An Introduction to Statistical Learning with applications in Python](https://www.statlearning.com/) | An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use contemporary tools for data analysis. |
 | . | . |
 | Table 5. | Books |
+
 
 
 ### Notes to organise
