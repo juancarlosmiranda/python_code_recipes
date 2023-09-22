@@ -1,0 +1,36 @@
+import seaborn as sns
+penguins = sns.load_dataset("penguins")
+sns.displot(penguins, x="flipper_length_mm")
+penguins.head(1)
+
+https://datatofish.com/
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html#min-tut-06-stats
+
+
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
+https://seaborn.pydata.org/tutorial/relational.html
+
+
+
+DATA SELECTION WITH PANDAS
+---------------------------
+
+data_df.head()
+data_df.head(1)
+data_df.tail()
+data_df.tail(1)
+
+Select a column data_df.height
+Select from 1 to five columns. data_df.height[1:5]
+
+
+MACHINE LEARNING 
+--------------------
+https://realpython.com/train-test-split-python-data/
+https://towardsdatascience.com/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://stackoverflow.com/questions/17412439/how-to-split-data-into-trainset-and-testset-randomly
+https://data-flair.training/blogs/train-test-set-in-python-ml/
+
+
+

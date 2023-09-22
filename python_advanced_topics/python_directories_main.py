@@ -23,7 +23,7 @@ if __name__ == '__main__':
     current_script_path_str = __file__  # with slash /
     script_name = os.path.basename(current_script_path_str)  # get the script's name
     normalised_script_path = os.path.normpath(current_script_path_str)  # conversion to operating system format \ Windows for example.
-    local_script_path = os.path.dirname(os.path.abspath(__file__))  # from a complete plath get the dirname
+    local_script_path = os.path.dirname(os.path.abspath(__file__))  # from a complete path get the dirname
 
     # --------------------------------
     # managing folders
@@ -56,9 +56,11 @@ if __name__ == '__main__':
 
     # ---------------------------------------------------
     path_filename_selected = "/home/user/sound_db/test_data_split/VID-20200319-WA0064.mp4.wav_split_07.wav"
-    file_name_selected = os.path.basename(path_filename_selected)
+    dirname_selected = os.path.dirname(path_filename_selected)  # /home/user/sound_db/test_data_split/
+    file_name_selected = os.path.basename(path_filename_selected)  # VID-20200319-WA0064.mp4.wav_split_07.wav
     print("-- Getting the filename from path with os.path.basename() --")
     print(f"path_filename_selected = {path_filename_selected}")
+    print(f"dirname_selected = {dirname_selected}")
     print(f"file_name_selected     = {file_name_selected}")
 
     # ---------------------------------------------------
