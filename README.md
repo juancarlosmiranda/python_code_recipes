@@ -85,8 +85,8 @@ This folder contains examples about advanced topics using Python.
 * typing - Support for type hints https://docs.python.org/3/library/typing.html
 
 
-## Creating environment
-### Creating on Linux systems
+## Creating environments
+### Creation of Python  environments on Linux systems
 Installing dependencies for Linux operating systems
 ```
 sudo apt-get install python3-dev
@@ -94,7 +94,7 @@ sudo apt-get install python3
 sudo apt-get install python3-pip
 ```
 
-Environment creation
+Creating environment.
 ```
 python3 -m venv ./python_code_recipes_venv
 source ./python_code_recipes_venv/bin/activate
@@ -102,19 +102,13 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Creating on Windows systems
+### Creation of Python  environments on Windows systems
 ```
-"%LocalAppData%\Programs\Python\Python38\python.exe" -m venv MY_APP_ENV
-\MY_APP_ENV\Scripts\activate
+"%LocalAppData%\Programs\Python\Python38\python.exe" -m venv python_code_recipes_venv
+\python_code_recipes_venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-```
-
-Activation of environment in Windows 10.
-```
-cd ./python_code_recipes_venv/Scripts
-activate
 ```
 
 ### Managing Python environments
@@ -128,7 +122,3 @@ To freeze libraries in virtual environment
 pip freeze
 pip freeze > requirements.txt
 ```
-
-
-
-
